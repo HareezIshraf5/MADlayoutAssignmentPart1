@@ -1,4 +1,5 @@
-Part 1.
+#Assignment 3 Part 1
+
 Create a Grid Layout of IoT (Internet of Things) devices in a particular house. 
 Keep it simple to just 4-6 devices. 
 Each device will have an icon on its own. 
